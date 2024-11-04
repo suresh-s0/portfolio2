@@ -1,3 +1,5 @@
+import { space } from 'postcss/lib/list'
+
 /** @type {import('tailwindcss').Config} */
 export default {
   content: [
@@ -5,7 +7,10 @@ export default {
     "./src/**/*.{js,jsx}", 
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily:{
+        mono: ['"Courier New"', 'monospace']},
+    },
   },
   plugins: [],
 }
