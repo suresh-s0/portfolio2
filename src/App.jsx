@@ -7,7 +7,7 @@ import About from './components/about'
 function App() {
 
   return (
-    <div className="bg-gray-700 font-mono ">
+    <div className="bg-gradient-to-r from-gray-600 via-gray-900 to-black font-mono ">
       <div >
 
         <Topbar></Topbar>

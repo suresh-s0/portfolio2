@@ -11,7 +11,7 @@ function Home() {
             <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suresh-s003" height="20" width="30" /></a>
             
             <a href="https://github.com/suresh-s0" target="_blank" className="text-white p-1 mr-1">
-            <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="suresh-s0" height="20" width="30" /></a>
+            <img align="center" src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="suresh-s0" height="20" width="30" /></a>
 
             </div>
 
