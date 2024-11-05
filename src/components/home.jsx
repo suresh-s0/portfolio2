@@ -4,7 +4,7 @@ function Home() {
 
 
             <h2 className="text-white text-6xl  p-2" > Suresh </h2>
-            <h2 className=" text-white text-3xl"> Fullstack Developer </h2>
+            <h2 className=" text-white text-3xl"> Full-stack Developer </h2>
             <h2 className="text-white text-xl">Coimbatore, TamilNadu</h2>
             <div className="flex flex-row mt-5">
                 <a href="https://www.linkedin.com/in/suresh-s0/" target="_blank" className="text-white p-1 mr-1">
