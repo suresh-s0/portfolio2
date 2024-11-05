@@ -2,7 +2,7 @@ function About(){
 
     return(
         <div className="h-[645px]">
-            Hello !,
+         <h2>Hello there ! </h2>
         </div>
     )
 }

@@ -1,23 +1,22 @@
 function Topbar() {
 
     return (
-        <div className="bg-gray-800  sticky top-0 font-mono">
-            <div className="flex justify-end border-4 border-gray-500 rounded p-2 ">
-                <button className="mr-4  text-white  gradients " >
+        <div className="flex justify-end bg-gray-800 bg-opacity-75 sticky top-1 font-mono  shadow-lg  shadow-gray-800 ">
+            <div className=" flex  rounded px-4 py-2  ">
+                <button className="  gradients ml-4  text-white rounded-lg p-[1px]  " >
 
-                    <span className="block bg-gray-800 rounded-lg p-2 ">Home</span>
+                    <span className="block bg-gray-800 rounded-lg px-4 py-2 ">Home</span>
                 </button>
-                <button className="mr-4  text-white gradients">
+                <button className="gradients  ml-4 text-white rounded-lg p-[1px]  " >
 
-                    <span className="block bg-gray-800 rounded-lg p-2">About</span>
+                    <span className=" block bg-gray-800 rounded-lg px-4 py-2 ">About</span>
                 </button>
-                <button className="mr-4  text-white  gradients" >
+                <button className=" gradients  ml-4 text-white rounded-lg p-[1px]  " >
 
-                    <span className="block bg-gray-800 rounded-lg p-2">Projects</span>
+                    <span className="block bg-gray-800 rounded-lg px-3 py-2 ">Projects</span>
                 </button>
-                <button className="mr-4  text-white  gradients ">
-
-                    <span className="block bg-gray-800 rounded-lg  p-2">Contacts</span>
+                <button className=" gradients ml-4 text-white rounded-lg p-[1px]  " >
+                    <span className="block bg-gray-800 rounded-lg px-3 py-2 ">Contacts</span>
                 </button>
 
 
