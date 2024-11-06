@@ -2,6 +2,7 @@ import { useState } from 'react'
 import Topbar from './components/topbar'
 import Home from './components/home'
 import About from './components/about'
+import Projects from './components/projects'
 
 
 function App() {
@@ -13,6 +14,7 @@ function App() {
         <Topbar></Topbar>
         <Home></Home>
         <About></About>
+        <Projects></Projects>
 
       </div>
 
