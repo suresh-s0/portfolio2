@@ -5,3 +5,17 @@
     /* Padding to make space for the border effect */ 
     /* border-radius: 0.65rem; */
 }
+
+/* for chrome */
+/* .scrollable-container::-webkit-scrollbar {
+    display: none;
+  } */
+  
+  .scrollable-container {
+    scrollbar-width: none;
+  }
+  
+  /* .scrollable-container {
+    -ms-overflow-style: none;
+  } */
+  
