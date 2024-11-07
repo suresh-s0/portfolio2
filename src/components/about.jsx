@@ -1,20 +1,17 @@
 function About() {
 
-    return (
-        <div id="About" className=" flex mt-5 h-[70vh] justify-center items-center  border-b-4 border-gray-800 px-20">
-            <div className=" border-gray-800 w-[50%] flex flex-col justify-center items-center">
-
-                <h1 className="text-white">About me</h1>
-                <div className="flex mt-8">
-
-                    <h2 className="text-white text-wrap">
-                        Hello! I'm an up-and-coming Full Stack Developer .
-                        With a solid foundation in both front-end and back-end technologies, I'm passionate about crafting
-                        dynamic and responsive web applications that deliver seamless user experiences.
-                    </h2>
-                </div>
-
+    return (           
+         <div className="flex flex-col justify-center items-center mt-5 h-[50vh]  ">
+            <h1 className="text-white">About me</h1>
+            <div className="flex w-[50%] mt-8">
+               
+                <h2 className="text-white">
+                    Hello! I'm an up-and-coming Full Stack Developer .
+                    With a solid foundation in both front-end and back-end technologies, I'm passionate about crafting 
+                    dynamic and responsive web applications that deliver seamless user experiences.
+                </h2>
             </div>
+
 
 
             <div className="  border-l-2 border-gray-800 text-white flex flex-col  w-[50%] px-4 py-8">
@@ -34,6 +31,7 @@ function About() {
             </div>
 
         </div>
+        
     )
 }
 
