@@ -6,6 +6,8 @@ import Projects from './components/projects'
 import Contacts from './components/contacts'
 import Skills from './components/skills'
 
+
+
 function App() {
 
   return (
