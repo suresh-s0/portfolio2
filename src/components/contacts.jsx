@@ -1,6 +1,6 @@
 function Contacts(){
     return(
-        <div className="flex justify-center items-center">
+        <div className="flex justify-end items-center border-b-4 p-6">
             <button>
                 <a href="mailto:sureshaster09@gmail.com" className="text-white p-1 mr-1">
                mail
