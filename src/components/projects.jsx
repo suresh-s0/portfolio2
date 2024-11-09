@@ -27,7 +27,7 @@ const projects = [
 
 function Projects() {
   return (
-    <div className=" border-gray-800 p-5 mt-3 flex justify-center">
+    <div className="border-b-4 border-gray-800 p-5 mt-3 flex justify-center">
       <div className="scrollable-container flex overflow-x-auto   p-3  border-2 border-red-900 p-4 w-[1000px] ">
         {projects.map((pro, index) => {
           let title = pro.Title;
