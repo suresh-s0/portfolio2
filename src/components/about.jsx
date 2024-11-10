@@ -14,6 +14,12 @@ function About() {
 
 
 
+            <div className="text-white flex flex-col justify-center border px-10 py-8">
+                <h1>Experience</h1>
+                <div>
+                    <h2>Apirl-2024 to present :</h2>
+                </div>
+            </div>
             </div>
     )
 }
