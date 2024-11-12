@@ -1,6 +1,9 @@
 function Contacts(){
     return(
-        <div className="flex justify-end items-center border-b-4 p-6">
+        <div>
+          
+
+            <div className="flex justify-center  p-6">
             <button>
                 <a href="mailto:sureshaster09@gmail.com" className="text-white p-1 mr-1">
                mail
@@ -13,6 +16,10 @@ function Contacts(){
                 <a href="https://github.com/suresh-s0" target="_blank" className="text-white p-1 mr-1">
                     <img align="center" src="https://github.githubassets.com/favicons/favicon-dark.svg" alt="suresh-s0" height="6" width="20" /></a>
         </div>
+
+
+        </div>
+  
     )
 }
 
