@@ -26,8 +26,7 @@ function About() {
                 <div className="px-6 py-2">
                     <h2 className="py-2">** Working on projects involving GO,Gin,Gorm and  SQL to develop and maintain applications.</h2>
                     <h2 className="py-2">** Collaborated with cross-functional teams to implement  user authentication, API integrations AND CRUD functions.</h2>
-                    <h2 className="py-2">** Actively involved in both front-end and back-end development, ensuring seamless data flow and efficient database management.</h2>
-                
+                    
                 </div>
             </div>
             </div>
