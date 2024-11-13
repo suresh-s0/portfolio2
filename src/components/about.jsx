@@ -1,8 +1,8 @@
 function About() {
 
     return (
-        <div id="About" className=" flex mt-5  border-r-4 border-gray-800 px-20">
-            <div className="border-x-2 border-gray-800 w-[50%] flex flex-col justify-center items-center">
+        <div id="About" className=" flex mt-5 h-[70vh] justify-center items-center  border-b-4 border-gray-800 px-20">
+            <div className=" border-gray-800 w-[50%] flex flex-col justify-center items-center">
 
                 <h1 className="text-white">About me</h1>
                 <div className="flex mt-8">
@@ -17,7 +17,7 @@ function About() {
             </div>
 
 
-            <div className="text-white flex flex-col  w-[50%] px-4 py-8">
+            <div className="  border-l-2 border-gray-800 text-white flex flex-col  w-[50%] px-4 py-8">
                 <h1>Experience:</h1>
                 <div className="px-6 py-3">
                     <h2>Company: Sterna Devices</h2>
