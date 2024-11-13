@@ -1,3 +1,7 @@
+html {
+  scroll-behavior: smooth;
+}
+
 .gradients{
    
     background: linear-gradient(to right, #80a4df, #bb87eb, #f187bc); /* Gradient background */
