@@ -1,6 +1,6 @@
 function Contacts() {
     return (
-        <div id="Contacts" className=" flex flex-col justify-center items-center border-2 p-6">
+        <div id="Contacts" className=" flex flex-col justify-center items-center p-6">
 
              <h1 className="text-white">Contacts:</h1>   
             <div className=" flex flex-col justify-center items-center ">
