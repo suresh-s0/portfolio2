@@ -1,6 +1,6 @@
 const projects = [
   {
-    Title: "sign up",
+    Title: "todo",
     img: "src/asset/todolist.png",
     desc: "",
     link: [
@@ -10,11 +10,12 @@ const projects = [
     lan: ["react", "go", "sql"],
   },
   {
-    Title: "todo ",
-    img: "",
-    desc: "",
+    Title: "sign up ",
+    img: "src/asset/signup.png",
+    desc: " a go backend and react front end using signup form",
     link: [""],
-    lan: [""],
+    lan: ["react", "go", "sql"],
+
   },
   {
     Title: "go game ",
