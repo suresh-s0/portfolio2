@@ -16,9 +16,9 @@ const imgs = [
 
 function Skills() {
     return (
-        <div className="flex justify-center items-center h-[50vh] border-b-4 border-gray-800 p-10">
-            <div className="border flex flex-col justify-center items-center mt-8 w-[700px]">
-                <span className="text-white text-lg">Knowledge in:</span>
+        <div className="flex justify-center  items-center h-[50vh] border-b-4 border-gray-800 p-10">
+            <div className="border flex flex-col rounded-lg justify-center items-center mt-8 w-[700px]">
+                <span className="text-white text-lg">Experienced with:</span>
 
                 <div className="flex flex-wrap justify-center items-center p-8 gap-3">
                     {imgs.map((img, ind) => {
