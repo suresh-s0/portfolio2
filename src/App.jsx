@@ -28,8 +28,6 @@ function App() {
         <Fotter></Fotter>
 
 
-      </div>
-
     </div>
     </div>
 
