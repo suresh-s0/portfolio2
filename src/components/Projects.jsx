@@ -1,8 +1,6 @@
 const projects = [
   {
-
-    Title: "todo",
-
+    Title: "sign up",
     img: "src/asset/todolist.png",
     desc: "",
     link: [
@@ -12,11 +10,11 @@ const projects = [
     lan: ["react", "go", "sql"],
   },
   {
-    Title: "sign up ",
-    img: "src/asset/signup.png",
-    desc: " a go backend and react front end using signup form",
+    Title: "todo ",
+    img: "",
+    desc: "",
     link: [""],
-    lan: ["react", "go", "sql"],
+    lan: [""],
   },
   {
     Title: "go game ",
@@ -29,9 +27,7 @@ const projects = [
 
 function Projects() {
   return (
-
     <div id="Projects" className=" border-b-4 border-gray-800 p-5 mt-3 flex justify-center">
-
       <div className="scrollable-container flex overflow-x-auto   p-3  border-2 border-red-900 p-4 w-[1000px] ">
         {projects.map((pro, index) => {
           let title = pro.Title;

@@ -1,3 +1,4 @@
+
 function Contacts() {
     return (
         <div id="Contacts" className=" flex flex-col justify-center items-center p-6">
@@ -20,8 +21,6 @@ function Contacts() {
                 </a>
             </div>
         </div>
-
-
 
     )
 }
