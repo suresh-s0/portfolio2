@@ -14,9 +14,6 @@ const imgs = [
 
 ]
 
-
-
-
 function Skills() {
     return (
         <div className="flex justify-center items-center h-[50vh] border-b-4 border-gray-800 p-10 ">

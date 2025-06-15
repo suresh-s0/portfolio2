@@ -18,11 +18,13 @@ function About() {
                 <h1>Experience:</h1>
                 <div className="px-6 py-3">
                     <h2>Company: Sterna Devices</h2>
+
                     <h2>Role: Junior Software Developer</h2>
                     <h2>Duration: Apirl-2024 to present </h2>
                 </div>
 
-                <h1>Responsibilities:</h1>
+                <h1 className="text-lg">Responsibilities:</h1>
+
                 <div className="px-6 py-2">
                     <h2 className="py-2">** Working on projects involving GO,Gin,Gorm and  SQL to develop and maintain applications.</h2>
                     <h2 className="py-2">** Collaborated with cross-functional teams to implement  user authentication, API integrations AND CRUD functions.</h2>

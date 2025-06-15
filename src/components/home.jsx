@@ -1,6 +1,10 @@
 function Home() {
     return (
-        <div className="mt-3 flex flex-col justify-center items-center h-[78vh]   border-gray-300 font-mono">
+
+       // <div className="mt-3 flex flex-col justify-center items-center h-[78vh]   border-gray-300 font-mono">
+
+        <div id="Home" className="Home mt-3 flex flex-col justify-center items-center h-screen border-b-4  border-gray-800 font-mono">
+
 
 
             <h2 className="text-white text-6xl  p-2" > Suresh </h2>
